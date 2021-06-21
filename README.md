@@ -1,4 +1,12 @@
 # Hi there 👋
+Hey, I'm Pete. I'm currently finishing up the full stack web development program at Lambda School. 
+
+#### Find me around the web:
+
+* [Portfolio](https://www.petevs.com)
+* [LinkedIn](https://www.linkedin.com/in/pete-vs)
+
+
 
 <!--
 **petevs/petevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
