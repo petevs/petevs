@@ -5,6 +5,12 @@ Hey, I'm Pete. I'm currently finishing up the full stack web development program
 * Frontend: React.js, HTML, CSS, Javascript
 * Backend: Node.js, PostgreSQL, Python
 
+#### Bit about me:
+* I'm Canadian
+* Passionate about Bitcoin
+* Obssessed with [Wing Foiling](https://www.youtube.com/watch?v=FiukbYdg0TE)
+* Ran a pressure washing business for 6 years
+
 #### Find me around the web:
 
 * [Portfolio](https://www.petevs.com)
