@@ -1,10 +1,15 @@
 # Hi there 👋
-Hey, I'm Pete. I'm currently finishing up the full stack web development program at Lambda School. 
+Hey, I'm Pete. I'm currently finishing up the full stack web development program at Lambda School (expected Aug 2021).
+
+#### Skills:
+* Frontend: React.js, HTML, CSS, Javascript
+* Backend: Node.js, PostgreSQL, Python
 
 #### Find me around the web:
 
 * [Portfolio](https://www.petevs.com)
 * [LinkedIn](https://www.linkedin.com/in/pete-vs)
+* hey@petevs.com
 
 
 
@@ -18,6 +23,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: pete@petevs.com
+- 📫 How to reach me: hey@petevs.com
 - ⚡ Fun fact: ...
 -->
