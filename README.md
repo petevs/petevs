@@ -7,7 +7,7 @@ Hey, I'm Pete. I'm currently finishing up the full stack web development program
 
 #### Bit about me:
 * I'm Canadian
-* Passionate about Bitcoin
+* Passionate about [Bitcoin](https://twitter.com/i/lists/1353033569262841856)
 * Obssessed with [Wing Foiling](https://www.youtube.com/watch?v=FiukbYdg0TE)
 * Ran a pressure washing business for 6 years
 
