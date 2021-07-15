@@ -6,10 +6,11 @@ Hey, I'm Pete. I'm currently finishing up the full stack web development program
 * Backend: Node.js, PostgreSQL, Python
 
 #### Bit about me:
-* Canadian, Married, Dad of a 2yr old
-* Passionate about [Bitcoin](https://twitter.com/i/lists/1353033569262841856)
+* Grew up just outside Vancouver, Canada.  
+* Married with kid
+* Ran a home service business for 6 years
+* Passionate about Bitcoin [checkout curated twitter list =>] (https://twitter.com/i/lists/1353033569262841856)
 * Obssessed with [Wing Foiling](https://www.youtube.com/watch?v=FiukbYdg0TE)
-* Ran a pressure washing business for 6 years
 
 #### Find me around the web:
 
