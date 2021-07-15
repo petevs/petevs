@@ -9,7 +9,7 @@ Hey, I'm Pete. I'm currently finishing up the full stack web development program
 * Grew up just outside Vancouver, Canada.  
 * Married with kid
 * Ran a home service business for 6 years
-* Passionate about [Bitcoin] (https://twitter.com/i/lists/1353033569262841856)
+* Passionate about [Bitcoin](https://twitter.com/i/lists/1353033569262841856)
 * Currently obssessed with [Wing Foiling](https://www.youtube.com/watch?v=FiukbYdg0TE)
 
 #### Find me around the web:
