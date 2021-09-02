@@ -1,5 +1,5 @@
 # Hi there 👋
-Hey, I'm Pete. I'm currently finishing up the full stack web development program at Lambda School (expected Aug 2021).
+Hey, I'm Pete. I just finished up the full stack web development program at Lambda School in Aug 2021. Now, looking for a full-time front-end or full-stack developer role.
 
 #### Skills:
 * Frontend: React.js, HTML, CSS, Javascript
