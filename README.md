@@ -15,7 +15,7 @@ Hey, I'm Pete. I finished up the full stack web development program at Lambda Sc
 #### Bit about me:
 * Completed full-stack program at [Lambda School](https://www.bloomtech.com/)
 * Ran a home service business for 6 years
-* Was in tax and accounting before moving to software development
+* Worked in Tax and Accounting before moving to software development
 * Passionate about [Bitcoin](https://twitter.com/i/lists/1353033569262841856)
 * Stoked on [Wing Foiling](https://www.youtube.com/watch?v=FiukbYdg0TE)
 
