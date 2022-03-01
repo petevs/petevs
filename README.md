@@ -1,5 +1,5 @@
 # Hi there 👋
-Hey, I'm Pete. I finished up the full stack web development program at Lambda School. Lately been working on some apps for tracking bitcoin portfolios: [ShakeMetrics.com](https://shakemetrics.com), [CalcuatingBitcoin.com](https://calculatingBitcoin.com)
+Hey, I'm Pete. [Lambda School](https://www.bloomtech.com/) alum. Lately been working on some apps for tracking bitcoin portfolios: [ShakeMetrics.com](https://shakemetrics.com), [CalcuatingBitcoin.com](https://calculatingBitcoin.com)
 
 #### Looking for a front-end or full-stack developer role at companies like:
 * [Shakepay](https://shakepay.com)
