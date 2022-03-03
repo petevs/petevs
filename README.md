@@ -5,8 +5,6 @@ Hey, I'm Pete. [Lambda School](https://www.bloomtech.com/) alum. Lately been wor
 * [Shakepay](https://shakepay.com)
 * [Cointracker](https://cointracker.io)
 * [Strike](https://strike.me)
-* [Casa](https://keys.casa)
-* [Bitrefill](https://www.bitrefill.com/)
 
 #### Skills:
 * Frontend: React.js, Next.js, HTML, CSS, Javascript
