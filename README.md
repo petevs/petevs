@@ -1,4 +1,9 @@
 # Hi there 👋
+
+Hey, I'm Pete. I'm currently building [FoilFind.com](https://www.foilfind.com/)
+
+
+<!-- # Hi there 👋
 Hey, I'm Pete. [Lambda School](https://www.bloomtech.com/) alum. Lately been working on some apps for tracking bitcoin portfolios: [ShakeMetrics.com](https://shakemetrics.com), [CalcuatingBitcoin.com](https://calculatingBitcoin.com)
 
 #### Skills:
@@ -19,8 +24,6 @@ Hey, I'm Pete. [Lambda School](https://www.bloomtech.com/) alum. Lately been wor
 * hey@petevs.com
 
 
-
-<!--
 **petevs/petevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
